@@ -4,3 +4,8 @@ npx @react-native-community/cli init /wippo_frontend --version 0.75.0
 cd wippo_frontend
 npx react-native-macos-init --version 0.75.33
 
+# 실행
+emulator -list-avds
+emulator -avd Pixel_5
+
+npx react-native run-android
