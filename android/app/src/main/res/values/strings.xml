@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">wippo_frontend</string>
+    <string name="kakao_native_app_key">32f839c35a4a4dcb81bd3021a15620d7</string>
 </resources>
